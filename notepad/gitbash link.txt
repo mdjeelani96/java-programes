@@ -1,0 +1,11 @@
+https://github.com/mdjeelani96/todays.git
+
+
+
+
+github  links
+https://github.com/mdjeelani96/todays
+
+
+program link
+https://github.com/mdjeelani96/todays/blob/master/src/inheritanceconcept/Inheritance.java
